@@ -33,12 +33,21 @@ The dissent wins on *what comes first*; the majority wins on *what runs in paral
 ## Open questions the user must answer to sharpen this further
 1. Citizenship/residency status (determines ownership structure — 51%-Kuwaiti-partner default vs. KDIPA exemption).
 2. Budget available (none given; plan assumes bootstrap-to-modest, $6K–$70K range).
-3. Target customer — women, men, or both first (changes niche weighting and community-seeding priority).
-4. Any existing edge — following, gym/padel relationship, personal insight into an unmet need — that would de-risk cold start.
+3. ~~Target customer — women, men, or both first~~ — **Resolved (round 2): both.**
+4. ~~Any existing edge that would de-risk cold start~~ — **Resolved (round 2): personal influencer relationships (unpaid) plus a dedicated ad budget.**
 5. Kuwait-only ambition vs. GCC-wide from day one (affects naming/trademark screening breadth).
+6. *(New, round 2)* Do the founder's shortlisted Guangzhou/Sialkot/Turkey suppliers actually stock sandwich/spacer mesh, UPF-rated fabric, or a silver-ion finish at 50–200 unit MOQ? Requires direct RFQs, not desk research.
+7. *(New, round 2)* What does third-party lab testing (MVTR, AATCC 195, UPF) actually cost for a first-time small brand submitting 2–3 samples — needed to finalize the Phase 0 budget line.
+
+## Round 2: founder input incorporated (2026-07-26)
+The founder confirmed: (a) the core differentiator is genuine durability/fabric performance engineered for Gulf heat and humidity — the exact testable claim the Devil's Advocate said was missing; (b) the brand targets both men and women, with a modest-compatible capsule built into the range rather than spun off as a separate identity; (c) cold-start risk is substantially reduced — personal relationships with influencers who will post for free, plus a separate paid ad budget; (d) AI will be used heavily for feasibility research and ad production.
+
+A seventh specialist (**Textile & Fabric Technology**) was convened to stress-test the fabric claim. Verdict: achievable at 50–200 unit pilot scale, but only with a narrower, honest phrasing — "selected and tested for Gulf heat and humidity," not "engineered for the Gulf" (which implies proprietary R&D out of reach at this scale — Schoeller-tier finishes and PCM/Outlast cooling are not accessible or technically appropriate). The accessible toolkit: generic high-wicking polyester/spandex knits, sandwich/spacer 3D mesh at heat-mapped zones, UPF-rated fabric, and a Polygiene-tier/silver-ion finish if the factory stocks it — sourced primarily from Guangzhou-area mills at 150–300 unit MOQ. Recommend lab-testing 2–3 finalist fabrics (MVTR, AATCC 195, UPF) and publishing the actual numbers rather than adjectives — directly answers the Devil's Advocate's demand for real testing over branding. The modest-capsule "coverage vs. overheating" trade-off is a solved construction problem (targeted layering, mesh placement, laser-cut ventilation), demonstrated by Lara Active (Dubai) and Nike Pro Hijab — worth a direct competitive teardown before finalizing tech packs. Cost impact: technical fabric runs ~1.5–2.5x generic per yard, translating to roughly a 15–30% increase in landed unit cost — plausibly absorbable at the mid-premium GCC price point already discussed, provided the premium is substantiated with real test data.
+
+This resolves the positioning debate from round 1 in the founder's favor: durability/climate-performance is the core identity, with the modest capsule integrated as baseline design (per the original brand-identity councillor's recommendation), not a second competing identity.
 
 ## Confidence
-Medium at best across all councillors. Most market-size figures are vendor-teaser quality (multiple sources disagree materially on MEA/GCC sportswear sizing), and Kuwait-specific data is consistently thinner than Saudi/UAE data. Treat quantitative figures as directional; commission primary research (a licensed market report or direct consumer research) before committing real capital.
+Medium at best across all councillors. Most market-size figures are vendor-teaser quality (multiple sources disagree materially on MEA/GCC sportswear sizing), and Kuwait-specific data is consistently thinner than Saudi/UAE data. Treat quantitative figures as directional; commission primary research (a licensed market report or direct consumer research, and direct supplier RFQs for fabric specifics) before committing real capital.
 
 ## Councillor files
 - brand-identity.md
@@ -47,6 +56,7 @@ Medium at best across all councillors. Most market-size figures are vendor-tease
 - launch-strategy.md
 - marketing-growth.md
 - devils-advocate.md
+- fabric-technology.md (round 2)
 
 ## Published synthesis
 https://claude.ai/code/artifact/30795e58-7939-4a02-a764-32230f085301
