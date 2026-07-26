@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "the-council": {
+      "source": "DimitriGilbert/ai-skills",
+      "sourceType": "github",
+      "skillPath": "the-council/SKILL.md",
+      "computedHash": "270c0a7cc0845ba3a5e1d5ac1c7aa77a9e28b75c3be21884b203a29c238ef531"
+    }
+  }
+}
